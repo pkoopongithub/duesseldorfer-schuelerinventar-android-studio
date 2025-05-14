@@ -1,6 +1,5 @@
 
-# duesseldorfer-schuelerinventar-spss-R
-SPSS R
+
 # duesseldorfer-schuelerinventar
 GERMAN
 Quelloffenes Persönlichkeitsinventar
